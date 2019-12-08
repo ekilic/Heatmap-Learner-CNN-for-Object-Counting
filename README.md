@@ -1,1 +1,1 @@
-# Heatmap-Learner-Convolutional-Neural-Network-for-Object-Counting
+# Heatmap Learner Convolutional Neural Network for Object Counting
