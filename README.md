@@ -4,7 +4,7 @@ Supervisor: <a href="https://avesis.erciyes.edu.tr/ozturks/"> Serkan ÖZTÜRK </
 
 <h2>Description</h2></hr>
 
-This project aims to implement a simple and effective single-shot detector model to count and locate the objects in aerial images. The code and data will be made available on after peer review.
+This project aims to implement a simple and effective single-shot detector model to count and locate the objects in aerial images. The code and data will be made available after peer review.
 
 <h2>Results</h2></hr>
 
