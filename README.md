@@ -47,17 +47,17 @@ Experiments on the two car datasets (<a href="https://lafi.github.io/LPN/">PUCPR
 <tr>
 <td>Original</td>
 <td>Heat map</td>
-<td>Localization</td>
+<td>Peak map</td>
 </tr>
 <tr>
 <td><img src="results/457.png"/></td>
-<td><img src="results/457.png"/></td>
-<td><img src="results/457.png"/></td>
+<td><img src="results/heatmap-457.png"/></td>
+<td><img src="results/peakmap-457.png"/></td>
 </tr>
 <tr>
-<td>Ours (VGG-16)&nbsp;</td>
-<td>2.04&nbsp;</td>
-<td>3.16</td>
+<td><img src="results/458.png"/></td>
+<td><img src="results/heatmap-458.png"/></td>
+<td><img src="results/peakmap-458.png"/></td>
 </tr>
 </tbody>
 </table>
