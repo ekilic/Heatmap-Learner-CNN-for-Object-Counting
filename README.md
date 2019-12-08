@@ -39,3 +39,25 @@ Experiments on the two car datasets (<a href="https://lafi.github.io/LPN/">PUCPR
 </tr>
 </tbody>
 </table>
+
+<h2>Sample Localization Results</h2><hr>
+
+<table>
+<tbody>
+<tr>
+<td>Original</td>
+<td>Heat map</td>
+<td>Localization</td>
+</tr>
+<tr>
+<td><img src="results/457.png"/></td>
+<td><img src="results/457.png"/></td>
+<td><img src="results/457.png"/></td>
+</tr>
+<tr>
+<td>Ours (VGG-16)&nbsp;</td>
+<td>2.04&nbsp;</td>
+<td>3.16</td>
+</tr>
+</tbody>
+</table>
