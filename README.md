@@ -55,9 +55,9 @@ Experiments on the two car datasets (<a href="https://lafi.github.io/LPN/">PUCPR
 <td><img src="results/peakmap-457.png"/></td>
 </tr>
 <tr>
-<td><img src="results/458.png"/></td>
-<td><img src="results/heatmap-458.png"/></td>
-<td><img src="results/peakmap-458.png"/></td>
+<td><img src="results/456.png"/></td>
+<td><img src="results/heatmap-456.png"/></td>
+<td><img src="results/peakmap-456.png"/></td>
 </tr>
 </tbody>
 </table>
