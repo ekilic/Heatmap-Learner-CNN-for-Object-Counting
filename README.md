@@ -34,8 +34,8 @@ Experiments on the two car datasets (<a href="https://lafi.github.io/LPN/">PUCPR
 </tr>
 <tr>
 <td>Ours (VGG-16)&nbsp;</td>
-<td>2.04&nbsp;</td>
-<td>3.16</td>
+<td>1.96&nbsp;</td>
+<td>3.26</td>
 </tr>
 </tbody>
 </table>
