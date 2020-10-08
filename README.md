@@ -17,28 +17,54 @@ Experiments on the two car datasets (<a href="https://lafi.github.io/LPN/">PUCPR
 <td>&nbsp;MAE</td>
 <td>RMSE&nbsp;</td>
 </tr>
+ <tr>
+<td>LPN&nbsp;[1]</td>
+<td>23.80</td>
+<td>36.79</td>
+</tr>
+ <tr>
+<td>RetinaNet[2]</td>
+<td>16.62</td>
+<td>22.30</td>
+</tr>
+ <tr>
+<td>YOLOv3[3]</td>
+<td>7.92</td>
+<td>11.08</td>
+</tr>
+ <tr>
+<td>IoUNet[4]</td>
+<td>6.77</td>
+<td>8.52</td>
+</tr>
+ <tr>
+<td>VGG-GAP-HR[5]</td>
+<td>7.88</td>
+<td>9.30</td>
+</tr>
 <tr>
-<td>Ours (VGG-16)&nbsp;</td>
-<td>3.03&nbsp;</td>
-<td>4.02</td>
+<tr>
+<td>GSP224[6]</td>
+<td>5.46</td>
+<td>8.09</td>
+</tr>
+ <tr>
+<td>SA+CF+CRT[7]</td>
+<td>5.42</td>
+<td>7.38</td>
+</tr>
+ <tr>
+<td>GANet (VGG-16)[8]</td>
+<td>5.80</td>
+<td>6.90</td>
+</tr>
+<b><td>Ours (VGG-16)</td>
+<td>2.12</td>
+  <td>3.02</td></b>
 </tr>
 </tbody>
 </table>
 
-<table>
-<tbody>
-<tr>
-<td>&nbsp;PUCPR+ Dataset</td>
-<td>&nbsp;MAE</td>
-<td>RMSE&nbsp;</td>
-</tr>
-<tr>
-<td>Ours (VGG-16)&nbsp;</td>
-<td>1.96&nbsp;</td>
-<td>3.26</td>
-</tr>
-</tbody>
-</table>
 
 <h2>Sample Localization Results</h2>
 
