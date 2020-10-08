@@ -4,11 +4,11 @@ Supervisor: <a href="https://avesis.erciyes.edu.tr/ozturks/"> Serkan ÖZTÜRK </
 
 <h2>Description</h2>
 
-This project aims to implement a simple and effective single-shot detector model to count and locate the objects in aerial images. The code and data will be made available after peer review.
+This project aims to implement a simple and effective single-shot detector model to detect and count the objects in aerial images. The code and data will be made available after peer review.
 
 <h2>Results</h2>
 
-Experiments on the <a href="https://lafi.github.io/LPN/">CARPK</a> car dataset show the state-of-the-art counting and localizing performance of the proposed method compared with existing methods.
+Experiments on the <a href="https://lafi.github.io/LPN/">CARPK</a> car dataset have shown the state-of-the-art counting and localizing performance of the proposed method compared with existing methods.
 
 <table>
 <tbody>
