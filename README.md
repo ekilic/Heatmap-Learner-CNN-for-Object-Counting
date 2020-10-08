@@ -89,11 +89,11 @@ Experiments on the two car datasets (<a href="https://lafi.github.io/LPN/">PUCPR
 </table>
 
 <h2>References</h2>
-[1] M. Hsieh, Y. Lin, W. H. Hsu, Drone-based object counting by spatially regularized regional proposal network, CoRR abs/1707.05972. arXiv: 1707.05972.
-[2] T.-Y. Lin, P. Goyal, R. Girshick, K. He, P. Dollar, Focal loss for dense object detection, IEEE Transactions on Pattern Analysis and Machine Intelligence (2018) 1–1doi:10.1109/tpami.2018.2858826.
-[3] J. Redmon, A. Farhadi, Yolov3: An incremental improvement, CoRR abs/1804.02767. arXiv:1804.02767.
-[4] E. Goldman, R. Herzig, A. Eisenschtat, O. Ratzon, I. Levi, J. Goldberger, T. Hassner, Precise detection in densely packed scenes, CoRR abs/1904.00853. arXiv:1904.00853.
-[5] S. Aich, I. Stavness, Improving object counting with heatmap regulation, CoRR abs/1803.05494. arXiv:1803.05494.
-[6] S. Aich, I. Stavness, Object counting with small datasets of large images, CoRR abs/1805.11123. arXiv:1805.11123.
-[7] W. Li, H. Li, Q. Wu, X. Chen, K. N. Ngan, Simultaneously detecting and counting dense vehicles from drone images, IEEE Transactions on Industrial Electronics 66 (12) (2019) 9651–9662. doi:10.1109/tie.2019.2899548.
-[8] Y. Cai, D. Du, L. Zhang, L. Wen, W. Wang, Y. Wu, S. Lyu, Guided attention network for object detection and counting on drones, CoRR abs/1909.11307. arXiv:1909.11307.
+[1] M. Hsieh, Y. Lin, W. H. Hsu, Drone-based object counting by spatially regularized regional proposal network, CoRR abs/1707.05972. arXiv: 1707.05972. </br>
+[2] T.-Y. Lin, P. Goyal, R. Girshick, K. He, P. Dollar, Focal loss for dense object detection, IEEE Transactions on Pattern Analysis and Machine Intelligence (2018) 1–1doi:10.1109/tpami.2018.2858826.</br>
+[3] J. Redmon, A. Farhadi, Yolov3: An incremental improvement, CoRR abs/1804.02767. arXiv:1804.02767.</br>
+[4] E. Goldman, R. Herzig, A. Eisenschtat, O. Ratzon, I. Levi, J. Goldberger, T. Hassner, Precise detection in densely packed scenes, CoRR abs/1904.00853. arXiv:1904.00853.</br>
+[5] S. Aich, I. Stavness, Improving object counting with heatmap regulation, CoRR abs/1803.05494. arXiv:1803.05494.</br>
+[6] S. Aich, I. Stavness, Object counting with small datasets of large images, CoRR abs/1805.11123. arXiv:1805.11123.</br>
+[7] W. Li, H. Li, Q. Wu, X. Chen, K. N. Ngan, Simultaneously detecting and counting dense vehicles from drone images, IEEE Transactions on Industrial Electronics 66 (12) (2019) 9651–9662. doi:10.1109/tie.2019.2899548.</br>
+[8] Y. Cai, D. Du, L. Zhang, L. Wen, W. Wang, Y. Wu, S. Lyu, Guided attention network for object detection and counting on drones, CoRR abs/1909.11307. arXiv:1909.11307.</br>
