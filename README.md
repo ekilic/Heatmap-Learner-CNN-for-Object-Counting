@@ -8,7 +8,7 @@ This project aims to implement a simple and effective single-shot detector model
 
 <h2>Results</h2>
 
-Experiments on the two car datasets (<a href="https://lafi.github.io/LPN/">PUCPR+</a> and <a href="https://lafi.github.io/LPN/">CARPK</a>) show the state-of-the-art counting and localizing performance of the proposed method compared with existing methods.
+Experiments on the <a href="https://lafi.github.io/LPN/">CARPK</a> car dataset show the state-of-the-art counting and localizing performance of the proposed method compared with existing methods.
 
 <table>
 <tbody>
