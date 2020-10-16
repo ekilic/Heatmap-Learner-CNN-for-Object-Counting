@@ -1,5 +1,5 @@
 # Heatmap Learner Convolutional Neural Network for Object Counting and Localization
-Member: <a href="https://github.com/ekilic/"> Ersin KILIÇ (ersinkilic[at]erciyes.edu.tr) </a> </br>
+Member: <a href="https://github.com/ekilic/"> Ersin KILIÇ  </a> (ersinkilic[at]erciyes.edu.tr)</br>
 Supervisor: <a href="https://avesis.erciyes.edu.tr/ozturks/"> Serkan ÖZTÜRK </a> </br>
 
 <h2>Description</h2>
