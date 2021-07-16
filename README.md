@@ -97,9 +97,9 @@ Experiments on the <a href="https://lafi.github.io/LPN/">CARPK</a> car dataset h
 </table>
 
 <h2>Test</h2>
-1- Download pretrained model (<a href="https://drive.google.com/file/d/1a1MX70msKq_gLgquD34TuUWyMeXHEJ2e/view?usp=sharing"> CARPK (downsampling ratio = 8) </a>)
-2- Start visdom and browse (http://localhost:8097/)
-3- Run test.py
+1- Download pretrained model (<a href="https://drive.google.com/file/d/1a1MX70msKq_gLgquD34TuUWyMeXHEJ2e/view?usp=sharing"> CARPK (downsampling ratio = 8) </a>)</br>
+2- Start visdom and browse (http://localhost:8097/) </br>
+3- Run test.py </br>
 
 <h2>References</h2>
 [1] M. Hsieh, Y. Lin, W. H. Hsu, Drone-based object counting by spatially regularized regional proposal network, CoRR abs/1707.05972. arXiv: 1707.05972. </br>
