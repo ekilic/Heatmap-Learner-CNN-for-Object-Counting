@@ -1,10 +1,18 @@
 # Heatmap Learner Convolutional Neural Network for Object Counting and Localization
 Member: <a href="https://github.com/ekilic/"> Ersin KILIÇ  </a> <a href = "mailto:ersinkilic@erciyes.edu.tr">(E-mail)</a></br>
-Supervisor: <a href="https://avesis.erciyes.edu.tr/ozturks/"> Serkan ÖZTÜRK </a> </br>
+
+
+<blockquote>
+<p><a href="https://link.springer.com/article/10.1007/s12652-021-03377-5" rel="nofollow"><strong>An accurate car counting in aerial images based on convolutional neural networks
+</strong></a>,<br>
+Ersin Kilic, Serkan Öztürk<br>
+<em>SOTA of CARPK(<a href="https://paperswithcode.com/sota/object-counting-on-carpk" rel="nofollow">SOTA of CARPK</a>)</em></p>
+</blockquote>
 
 <h2>Description</h2>
 
-This project aims to implement a simple and effective single-shot detector model to detect and count the objects in aerial images. The code and data will be made available after peer review.
+This project aims to implement a simple and effective single-shot detector model to detect and count the cars in aerial images. 
+
 
 <h2>Results</h2>
 
@@ -87,6 +95,11 @@ Experiments on the <a href="https://lafi.github.io/LPN/">CARPK</a> car dataset h
 </tr>
 </tbody>
 </table>
+
+<h2>Test</h2>
+1- Download pretrained model (<a href="https://drive.google.com/file/d/1a1MX70msKq_gLgquD34TuUWyMeXHEJ2e/view?usp=sharing"> CARPK (downsampling ratio = 8) </a>)
+2- Start visdom and browse (http://localhost:8097/)
+3- Run test.py
 
 <h2>References</h2>
 [1] M. Hsieh, Y. Lin, W. H. Hsu, Drone-based object counting by spatially regularized regional proposal network, CoRR abs/1707.05972. arXiv: 1707.05972. </br>
