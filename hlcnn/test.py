@@ -60,7 +60,7 @@ if __name__ == '__main__':
             vis_MAP(MAP, vis, 0, batch_idx, 1, upsampler)
 
 
-            cMap[cMap < 0.45] = 0
+            cMap[cMap < 0.05] = 0
             peakMAP = detect_peaks(cMap)
 
 
