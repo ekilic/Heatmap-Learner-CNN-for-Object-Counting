@@ -186,15 +186,15 @@ def localizervgg16(pretrained=False, progress=True, dsr=8, **kwargs):
     if dsr == 4:
         vgg.features[30] = nn.MaxPool2d(kernel_size=1, stride=1)
         vgg.features[23] = nn.MaxPool2d(kernel_size=1, stride=1)
-        vgg.features[16] = nn.MaxPool2d(kernel_size=1, stride=2)
+        vgg.features[16] = nn.MaxPool2d(kernel_size=1, stride=1)
     elif dsr == 8:
         vgg.features[30] = nn.MaxPool2d(kernel_size=1, stride=1)
         vgg.features[23] = nn.MaxPool2d(kernel_size=1, stride=1)
-        vgg.features[16] = nn.MaxPool2d(kernel_size=1, stride=2)
+        vgg.features[16] = nn.MaxPool2d(kernel_size=2, stride=2)
     else:
         vgg.features[30] = nn.MaxPool2d(kernel_size=1, stride=1)
-        vgg.features[23] = nn.MaxPool2d(kernel_size=1, stride=2)
-        vgg.features[16] = nn.MaxPool2d(kernel_size=1, stride=2)
+        vgg.features[23] = nn.MaxPool2d(kernel_size=2, stride=2)
+        vgg.features[16] = nn.MaxPool2d(kernel_size=2, stride=2)
 
     locVGG = localizerVGG(vgg.features, num_classes=1)
     return locVGG
