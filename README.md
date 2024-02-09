@@ -110,3 +110,5 @@ Experiments on the <a href="https://lafi.github.io/LPN/">CARPK</a> car dataset h
 [6] S. Aich, I. Stavness, Object counting with small datasets of large images, CoRR abs/1805.11123. arXiv:1805.11123.</br>
 [7] W. Li, H. Li, Q. Wu, X. Chen, K. N. Ngan, Simultaneously detecting and counting dense vehicles from drone images, IEEE Transactions on Industrial Electronics 66 (12) (2019) 9651–9662. doi:10.1109/tie.2019.2899548.</br>
 [8] Y. Cai, D. Du, L. Zhang, L. Wen, W. Wang, Y. Wu, S. Lyu, Guided attention network for object detection and counting on drones, CoRR abs/1909.11307. arXiv:1909.11307.</br>
+
+Check more ai tools <a href="https://www.bestaiware.com">Bestaiware</a>
